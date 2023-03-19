@@ -1,10 +1,16 @@
 ---
-layout: post
 title: "Improper Input Validation on dbell Smart Doorbell Can Lead To Attackers Remotely Unlocking Door"
-excerpt: "CVE-2019-13336"
-tags: [post, CVE]
-comments: true
-header-img: "https://drive.google.com/uc?export=view&id=1_CySfS1Gx7RM6__cCYRLC3q2gU6eiSgP"
+layout: post
+date: 2019-10-07 22:10
+tag: [post, CVE]
+image: https://drive.google.com/uc?export=view&id=1_CySfS1Gx7RM6__cCYRLC3q2gU6eiSgP
+headerImage: true
+projects: false
+hidden: false # don't count this post in blog pagination
+description: "Write-up for CVE-2019-13336"
+category: blog
+author: noahclements
+externalLink: false
 ---
 
  - CVE Number: CVE-2019-13336
