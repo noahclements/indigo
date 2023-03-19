@@ -1,18 +1,18 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: Noah Clements (genoff)
+bio: hacker of things
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: a blog for my projects, write-ups, and other stuff
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/LoudMouth_NOah.png
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
-dark-theme: auto
+dark-theme: dark
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -20,13 +20,13 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://noahclements.com
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+# analytics-google: 'UA-145398822-1'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
@@ -34,26 +34,20 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+#facebook: myfacebook
+twitter: g3noff
+#instagram: myinstagram
+linkedin: noahclements1
+github: noahclements
+email: noah.clements@unb.ca
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Noah Clements (genoff)
+    bio: hacker of things
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    picture: assets/images/LoudMouth_NOah.png
+    twitter: g3noff
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -79,10 +73,10 @@ blog: true
 read-time: true
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
+#show-tags: true
 
 # related posts inside a post?
-related: true
+#related: true
 
 # Display links for next and previous posts for the specified categories
 post-advance-links: [blog]
