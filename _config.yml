@@ -8,7 +8,7 @@ description: a blog for my projects, write-ups, and other stuff
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/LoudMouth_NOah.png
+picture: assets/images/profile.png
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
