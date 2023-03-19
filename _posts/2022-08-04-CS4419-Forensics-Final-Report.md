@@ -1,11 +1,16 @@
 ---
-layout: post
 title: "CS4419 Forensics Final Report"
-published: true
-date: 2022-08-04
-excerpt: Forensics Final Report
-comments: true
-tags: 'Forensics Memory Dump DFIR'
+layout: post
+date: 2022-08-04 22:10
+tag: Forensics Memory Dump DFIR
+image: 
+headerImage: false
+projects: true
+hidden: false # don't count this post in blog pagination
+description: "Forensics Final Report"
+category: project
+author: noahclements
+externalLink: false
 ---
 
 The goal of this final project was to analyze five memory dumps containing malicious activity and to come to a conclusion on what malware family it belonged to.
