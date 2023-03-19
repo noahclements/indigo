@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.authors.noahclements.picture }}{% endif %})
 
 <p>I am 23 years old and am a Bachelor of Computer Science graduate.
 I currently work as a Hacker, and have about 5 years experience as a SOC Analyst.
