@@ -4,35 +4,17 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.authors.noahclements.picture }}{% endif %})
 
-<p>I am 23 years old and am a Bachelor of Computer Science graduate.
-I currently work as a Hacker, and have about 5 years experience as a SOC Analyst.
-In my spare time I enjoy working on my home server, making music with my synthesizers and guitar, and breaking things in the name of hacking.
-Currently I am looking to grow my portfolio by learning more about hardware hacking, reverse engineering malware, and forensics. Hopefully I’ll make some posts about my endless stream of personal projects in the future.
-All opinions are my own and not the views of my employer.</p>
+<p>Noah Clements is a recent Bachelor of Computer Science graduate with a 3.5 GPA. During his studies, he was recognized for his academic achievements by being named to the 2021-22 Dean’s List with a 3.8 AGPA. Additionally, he was a member of the UNBCTF Team which placed 2nd in the Atlantic CyberSci Regionals, and will be participating in the CyberSci Nationals.
+Noah has also had extensive experience in the field of defensive security, having worked as a SOC Analyst for 5 years. During this time, he has developed a strong ability to investigate alerts and analyze logs through Microsoft Sentinel and QRadar, and has contributed to reducing many false positives by creating tuning rules. He has also demonstrated expertise in malware reverse engineering, forensics, threat hunting, and incident response. Noah also holds a CompTIA Security+ Certification and was the 1st Place winner of the DEFCON IoT Village Creator’s Challenge in 2022.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Thanks ChatGPT!
+
+All opinions are my own and not the views of my employer.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li></li>
 </ul>
 
 <h2>Projects</h2>
