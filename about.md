@@ -22,7 +22,7 @@ Noah has also had extensive experience in the field of defensive security, havin
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li>see</li>
+	<li>projects</li>
+	<li>tab</li>
 </ul>
