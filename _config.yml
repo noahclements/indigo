@@ -18,7 +18,7 @@ dark-theme: dark
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: hhttps://www.linkedin.com/in/noahclements1/
+resume-url: https://www.linkedin.com/in/noahclements1/
 
 url: https://noahclements.com
 # your url: https://USERNAME.github.io
@@ -26,7 +26,7 @@ url: https://noahclements.com
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-145398822-1'
+analytics-google: 'UA-145398822-1'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
