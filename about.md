@@ -14,7 +14,9 @@ Noah has also had extensive experience in the field of defensive security, havin
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li></li>
+	<li>todo: list skills</li>
+	<li>todo: hide this</li>
+	<li>todo: hide this one too</li>
 </ul>
 
 <h2>Projects</h2>
